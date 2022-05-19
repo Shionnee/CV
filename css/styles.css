@@ -63,6 +63,19 @@ a:hover {
   color: #EAF6F6;
 }
 
+.navbar-custom{
+  
+  background-color: rgb(255, 245, 245);
+  
+}
+
+
+.navbar a{
+  font-size: 1.2rem;
+  font-family: 'Ubuntu';
+}
+
+
 .top-container {
   /* background-color: #EAF6F6; */
   /* background-color: #EDB5BF; */
@@ -93,7 +106,7 @@ a:hover {
   /* padding: 50px 0; */
 }
 
-.contact-me {}
+
 
 .contact-p {
   width: 40%;
@@ -144,9 +157,10 @@ a:hover {
   margin-top: 20px;
 }
 
-.glam-img {
+.code-img {
   width: 30%;
   margin-bottom: 30px;
+  border-radius: 50%;
   /* float: left; */
   /* margin-right: 30px; */
 }
